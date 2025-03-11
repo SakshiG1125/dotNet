@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\DotNet\dotNet\bin\Debug\net8.0\dotNet.exe
+C:\Users\HP\source\repos\DotNet\dotNet\bin\Debug\net8.0\dotNet.deps.json
+C:\Users\HP\source\repos\DotNet\dotNet\bin\Debug\net8.0\dotNet.runtimeconfig.json
+C:\Users\HP\source\repos\DotNet\dotNet\bin\Debug\net8.0\dotNet.dll
+C:\Users\HP\source\repos\DotNet\dotNet\bin\Debug\net8.0\dotNet.pdb
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\dotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\dotNet.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\dotNet.AssemblyInfo.cs
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\dotNet.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\dotNet.dll
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\refint\dotNet.dll
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\dotNet.pdb
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\dotNet.genruntimeconfig.cache
+C:\Users\HP\source\repos\DotNet\dotNet\obj\Debug\net8.0\ref\dotNet.dll
